@@ -1,6 +1,6 @@
-PS C:\Users\a19758111\OneDrive - Deutsche Telekom AG\Dokumente\PowerShell\Modules> Connect-PnPOnline -Url "https://telekom.sharepoint.de/sites/SPL" -Interactive
-WARNING: 
- Please specify a valid client id for an Entra ID App Registration.                                                                                                             
+With the command Get-Help Connect-PnPOnline   , I see:
+ Connect-PnPOnline -OSLogin <SwitchParameter> [<CommonParameters>]
 
+ URL of SP is https://telekom.sharepoint.de/sites/SPL
 
-Connect-PnPOnline: Specified method is not supported.
+ I installed PowerShell 3.3.0 as that was the one available on the URL that you shared.
