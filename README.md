@@ -1,4 +1,1 @@
-Connect-PnPOnline `
-  -Url "https://telekom.sharepoint.de/sites/SPL" `
-  -ClientId "31359c7f-bd7e-475c-86db-fdb8c937548e" `
-  -Interactive
+Flow run failed. Action 'Create_item' failed: The 'inputs.parameters' of workflow operation 'Create_item' of type 'OpenApiConnection' is not valid. Error details: The API operation 'PostItem' requires the property 'item/Description' to be a string of maximum length '255' but is of length '262'.
